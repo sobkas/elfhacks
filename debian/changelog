@@ -1,0 +1,11 @@
+elfhacks (0.4.1-2) UNRELEASED; urgency=low
+
+  * Multi-arch fix
+
+ -- Krzysztof Sobiecki <sobkas@gmail.com>  Sun, 26 May 2013 00:59:08 +0200
+
+elfhacks (0.4.1-1~ppa1) precise; urgency=low
+
+  * Initial release to PPA
+
+ -- Martin Erik Werner <martinerikwerner@gmail.com>  Mon, 16 Jan 2012 15:59:53 +0100
